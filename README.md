@@ -1,4 +1,4 @@
-Resume-Matching-With-Job-Description-Using-PDF-Csv
+**Resume-Matching-With-Job-Description-Using-PDF-CSV**
 Project Objectives:
 
 Automated Resume Screening: The primary objective is to automate the initial screening of job applicants' resumes. This means developing a system that can quickly analyze and compare the content of resumes against the requirements outlined in a job description.
